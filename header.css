@@ -14,6 +14,10 @@ header{
   width: 100%;
   height: 100vh;
 }
+.divchik{
+  height: 200vh;
+  width: 100%;
+}
 .content{
   width: 90%;
   margin: 4em auto;
@@ -512,10 +516,7 @@ nav.white{
     margin-top: 17%;
   }
 }
-.divchik{
-  height: 200vh;
-  
-}
+
 
 
 
